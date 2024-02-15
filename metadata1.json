@@ -1,0 +1,19 @@
+{
+  "name": "Wall Street Bull",
+  "symbol": "WSB",
+  "uri": "https://ipfs.io/ipfs/QmbQtxsSGJxX7dB7tLofEYzV7VnTHfq1RRJB3KMMqr8N1x?filename=metadata1.json",
+  "sellerFeeBasisPoints": 0,
+  "image": "https://raw.githubusercontent.com/WSBadm/WSBUL/main/WSBUL_logo.png",
+  "description": "Wall Street Bull is a meme coin on the Solana network, inspired by the spirit of WallStreetBets and the desire for a BULL market",
+  "properties": {
+    "files": [
+      {
+        "uri": https://raw.githubusercontent.com/WSBadm/WSBUL/main/WSBUL_logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  },
+  "tags": ["Web3", "MEME"]
+}
